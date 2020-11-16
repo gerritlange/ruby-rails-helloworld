@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 ruby "2.3.3"
 gem 'rails', '~> 3.3.3'
+rails (~> 3.3.3) x64-mingw32
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
